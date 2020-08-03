@@ -1,0 +1,8 @@
+com\sumanthi\spring\controller\UserController.class
+com\sumanthi\spring\document\Users.class
+com\sumanthi\spring\repository\UserRepository.class
+com\sumanthi\spring\document\Authorities.class
+com\sumanthi\spring\document\Role.class
+com\sumanthi\spring\SpringBootDemo.class
+com\sumanthi\spring\repository\AuthoritiesRepository.class
+com\sumanthi\spring\repository\RoleRepository.class
